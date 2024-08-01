@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SA2 Assessment</title>
+
+<center>
+<img src="https://i.imgur.com/ZdJT8yK.jpg"width="800" height="300"> 
+
+<center>
+<p style="font-size:50px;text-align:center"><b>CRYPTOCURRENCY ADOPTION</b></p>
+
+
+<br>
+
+
+<body style="font-family=serif">
+
+<style>
+.text{
+	max-width: 700px;
+	margin: 0 auto;
+}
+</style>
+
+<div class="text" margin-left: auto;margin-right: auto;>
+
+<center>
+
+
+<h1 style="color:#23282D;border: 10px solid #E1BD75;">
+
+<p style="text-align:center">INTRODUCTION</p>
+</h1><br>
+
+<p style="text-align:center;font-size:18px;">
+<b>What is Cryptocurrency?</b>
+</p>
+</head>
+
+
+
+<body>
+<p style="text-align:center">
+A cryptocurrency is a digital currency that is represented by an encrypted data string. A peer-to-peer network known as a blockchain monitors and organises it, as well as serving as a secure database of transactions such as buying, selling, and transferring. Cryptocurrencies, unlike actual money, are decentralised, meaning they are not issued by governments or other financial organisations. (Trend Micro, n.d.)
+</P>
+<br>
+
+<p style="text-align:center;font-size:18px">
+<b>What is this research about?</b>
+</p>
+</head>
+
+
+<p style="text-align:justify">
+The following project addresses the relationship between cryptocurrency and the GDP of a country. To conduct a well examined research and a clearer study, 12 countries were chosen from the year 2021 as one of the variables. The 12 countries were categorised as developed, developing and underdeveloped countries. The data for this research was collected from a reliable and trustworthy agency which is International Monetary Fund (GDP of Country) and Triple A (Number of Cryptocurrency Users). 
+</P>
+
+
+<br>
+<p><p style="text-align:center;font-size:18px">
+<b>Hypothesis</b>
+</p>
+
+<p><p style="text-align:center">
+Country with higher cryptocurrency adoption has increased its GDP value because cryptocurrency provides many incentives for entrepreneurs across the globe
+</p>
+
+
+
+
+<style>
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  border-color: #000000;
+  text-aligin left;
+  padding: 6px;
+}
+
+tr:nth-child(even) 
+</style>
+
+
+
+
+<table>
+<p style="font-size:50px">  
+  <tr>
+    <td><b>Prediction</td>
+    <td>Country with higher cryptocurrency adoption increases its GDP value</td>
+    
+  </tr>
+  <tr>
+    <td><b>Variable 1</td>
+    <td>Country</td>
+    
+  </tr>
+  <tr>
+    <td><b>Variable 2</td>
+    <td>Cryptocurrency Adoption</td>
+   
+  </tr>
+  <tr>
+    <td><b>Variable 3</td>
+    <td>GDP per capita ($) </td>
+   
+
+
+  </tr>
+  <tr>
+    <td><b>Reason for Prediction</td>
+    <td>Cryptocurrency provides many incentives for entrepreneurs across the globe</td>
+    
+  </tr>
+  
+</table>
+
+<br>
+<br>
+<br>
+
+
+<h1 style="color:#23282D;border: 10px solid #E1BD75;">
+<p style="text-align:center">DATA SET</p>
+</h1><br>
+
+
+<p style="text-align:center">
+<b>Data Gathering Techniques</b>
+</p>
+
+
+<p style="text-align:justify">
+The data that is used in this report is secondary data where the data is collected from an external source such as from organisations or from an individual. The secondary data has already been collected from primary sources and made readily available for researchers to use for their own research. The sources used in our analysis is from trustable and reliable organizations so that the data collected is accurate to improve the accuracy of the analysis. 
+</P>
+
+
+<br>
+
+<p style="text-align:justify">
+The data on cryptocurrency ownership was collected from the website TripleA <a href="https://triple-a.io/crypto-ownership/">https://triple-a.io/crypto-ownership/</a>. TripleA is a newsletter and a cryptocurrency payment provider that works with popular cryptocurrencies such as Bitcoin and Ethereum and is a member of Singapore Fintech Association. The data on Cryptocurrency Adoption based on Country in the year 2021 was collected from this website due to its reliability.
+</P>
+
+<img src="https://i.imgur.com/m9i3K38.png"width="650" height="400">
+<p><b>Figure 1: Sample Data of Cryptocurrency Adoption</b></p>
+
+<br>
+
+<p style="text-align:justify">
+The data on GDP of a country was collected from a website of a trustable organization that is ‘International Monetary Fund’ <a href="https://www.imf.org/en/Publications/WEO/weo-database/2021/October/weo-report?c=512,914,612,171,614,311,213,911,314,193,122,912,313,419,513,316,913,124,339,638,514,218,963,616,223,516,918,748,618,624,522,622,156,626,628,228,924,233,632,636,634,238,662,960,423,935,128,611,321,243,248,469,253,642,643,939,734,644,819,172,132,646,648,915,134,652,174,328,258,656,654,336,263,268,532,944,176,534,536,429,433,178,436,136,343,158,439,916,664,826,542,967,443,917,544,941,446,666,668,672,946,137,546,674,676,548,556,678,181,867,682,684,273,868,921,948,943,686,688,518,728,836,558,138,196,278,692,694,962,142,449,564,565,283,853,288,293,566,964,182,359,453,968,922,714,862,135,716,456,722,942,718,724,576,936,961,813,726,199,733,184,524,361,362,364,732,366,144,146,463,528,923,738,578,537,742,866,369,744,186,925,869,746,926,466,112,111,298,927,846,299,582,487,474,754,698,&s=NGDPDPC,PPPPC,&sy=2020&ey=2021&ssm=0&scsm=0&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1">https://www.imf.org/en/Publications/WEO/weo-database/2021/October/weo-report?</a>. International Monetary Fund is an international financial institution of 190 countries to promote global monetary cooperation, financial stability, international trade facilitation, high employment and long-term economic growth, and poverty reduction around the world. The data collected on GDP based on countries in the year 2021 was collected from this website as the data provided is trustworthy and officially given by countries that are part of this organization. 
+</P>
+
+<img src="https://i.imgur.com/5lcNICY.png"width="650" height="500">
+<p><b>Figure 2: Sample Data of GDP per capita ($)</b></p>
+
+
+<br>
+
+<p style="text-align:justify">
+Data for the total population of each country was collected from the website called World Population Review <a href="https://worldpopulationreview.com/countries">https://worldpopulationreview.com/countries</a>. World Population Review is a non-profit organisation with no political ties that simplifies complex demographic data into easy-to-understand articles about the population of countries and cities. The data on the total population of each country was collected from this trustable website to calculate the Percentage of Cryptocurrency by Population using the formula [Percentage of Cryptocurrency by Population = [(Cryptocurrency Adoption/ Population of the Country) *100%]. This was done to improve the quality of our findings and to obtain a more accurate analysis on the hypothesis. 
+</P>
+
+<img src="https://i.imgur.com/S6Xbtsw.png"width="650" height="400">
+<p><b>Figure 3: Sample Data of Population of each Country</b></p>
+
+<br>
+
+<h1 style="color:#23282D;border: 10px solid #E1BD75;">
+<p style="text-align:center">DATA ANALYSIS</p>
+</h1>
+<br>
+
+<p style="text-align:justify">
+The hypothesis presented above shows the relationship between cryptocurrency adoption and the GDP per capita of countries. Cryptocurrency adoption is used to indicate the number of active cryptocurrency users in the world. Higher cryptocurrency adoption in a country, increases the GDP value of a country as cryptocurrency acts as a digital asset to access new demographics, technological efficiencies and international markets. This can increase the involvement of new entrepreneurs in every country which in turn increases the GDP of a country. 
+</P>
+
+<p style="text-align:justify">
+The hypothesis shows that countries with low GDP per capita will have lesser cryptocurrency users compared to countries that have a higher GDP per capita. Thus, countries with lower GDP per capita must embrace cryptocurrency as a new digital currency to reap the potential benefits from it. This is important to assist the growth of underdeveloped and developing countries so that the people in these countries can increase their standard of living and increase the economy of their country.  
+</P>
+
+<p style="text-align:justify">
+Cryptocurrency adoption for 12 countries were collected from a trustable online source. The percentage of cryptocurrency adoption by country was calculated [Percentage of Cryptocurrency Adoption = (Cryptocurrency adoption/Population of country) *100] for each of the countries. The percentage of cryptocurrency adoption was used to study the relationship with GDP per capita of 12 different countries (developed, developing & underdeveloped). To make sure the data presented is accurate and relatable, all the data was collected from the year <b>2021</b>.
+</P>
+
+<br>
+
+<iframe src="https://e.infogram.com/d1a65826-589f-4661-bb97-b57cd0634c8a?src=embed" title="Percentage of Cryptocurrency adoption by population (%) and GDP per capita for each country" width="550" height="522" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px;width: 490px"><a href="https://infogram.com/d1a65826-589f-4661-bb97-b57cd0634c8a" style="color:#989898!important;text-decoration:none!important;" target="_blank">Percentage of Cryptocurrency adoption by population (%) and GDP per capita for each country</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+<p><b> Table 1: Percentage of Cryptocurrency adoption by population (%) and GDP per capita for each country</b></p>
+
+<br><br>
+
+
+<h1 style="background-color:#09232c;color:lightyellow;">
+<p style="text-align:center">ANALYSIS 1</p>
+</h1>
+
+<table style="width:80%">
+  <tr>
+
+    <th style= "text-align: center;background-color:#E1BD75;color:#23282D">Country </th>
+    <th style= "text-align: center;background-color:#E1BD75;color:#23282D">Number of cryptocurrency owners</th>
+    <th style= "text-align: center;background-color:#E1BD75;color:#23282D">Population of the country</th>
+    <th style= "text-align: center;background-color:#E1BD75;color:#23282D">Percentage of Cryptocurrency Adoption by Population (%)</th>    
+    
+  </tr>
+  
+  <tr>
+    <td>USA</td>
+    <td style= "text-align: center">27,491,810</td>
+    <td style= "text-align: center">332,915,073</td>
+    <td style= "text-align: center">8.26</td> 
+  </tr>
+  
+  <tr>
+    <td>India </td>
+    <td style= "text-align: center">100,740,320</td>
+    <td style= "text-align: center">1,393,409,038</td>
+    <td style= "text-align: center">7.23</td>
+  </tr>
+  
+  <tr>
+    <td>Nigeria</td>
+    <td style= "text-align: center">13,016,341</td>
+    <td style= "text-align: center">211,400,708</td>
+    <td style= "text-align: center">6.16</td>
+  </tr>
+  
+  <tr>
+    <td>UK</td>
+    <td style= "text-align: center">3,360,591</td>
+    <td style= "text-align: center">68,207,116</td>
+    <td style= "text-align: center">4.93</td>
+  </tr>
+  
+  <tr>
+    <td>France</td>
+    <td style= "text-align: center">2,179,654</td>
+    <td style= "text-align: center">65,426,179</td>
+    <td style= "text-align: center">3.33</td>
+  </tr>
+  
+  <tr>
+    <td>Malaysia</td>
+    <td style= "text-align: center">1,019,405</td>
+    <td style= "text-align: center">32,776,194</td>
+    <td style= "text-align: center">3.11</td>
+  </tr>
+  
+  <tr>
+    <td>Mexico</td>
+    <td style= "text-align: center">3,189,799</td>
+    <td style= "text-align: center">130,262,216</td>
+    <td style= "text-align: center">2.45</td>
+  </tr>
+  
+  <tr>
+    <td>Bangladesh</td>
+    <td style= "text-align: center">3,742,571</td>
+    <td style= "text-align: center">166,303,498</td>
+    <td style= "text-align: center">2.25</td>
+  </tr>
+  
+  <tr>
+    <td>Egypt</td>
+    <td style= "text-align: center">1,791,852</td>
+    <td style= "text-align: center">104,258,327</td>
+    <td style= "text-align: center">1.72</td>
+  </tr>
+  
+  <tr>
+    <td>Japan</td>
+    <td style= "text-align: center">2,079,653</td>
+    <td style= "text-align: center">126,050,804</td>
+    <td style= "text-align: center">1.65</td>
+  </tr>
+  
+  <tr>
+    <td>Mali</td>
+    <td style= "text-align: center">232,172</td>
+    <td style= "text-align: center">20,855,735</td>
+    <td style= "text-align: center">1.11</td>
+  </tr>
+  
+  <tr>
+    <td>Ethiopia</td>
+    <td style= "text-align: center">1,127,264</td>
+    <td style= "text-align: center">117,876,227</td>
+    <td style= "text-align: center">0.96</td>
+  </tr>
+  
+</table>
+<p> <b>Table 2: Number of cryptocurrency owners, population and percentage of cryptocurrency adoption by country</b></p>
+<br>
+<br>
+
+
+<table style="width:80%">
+  <tr>
+
+    <th style= "text-align: center;background-color:#E1BD75;color:#23282D">Country </th>
+    <th style= "text-align: center;background-color:#E1BD75;color:#23282D">Percentage of Cryptocurrency Adoption by Population (%)</th>
+
+  </tr>
+  
+   <tr>
+    <td>USA</td>
+    <td style= "text-align: center">8.26</td>
+
+  </tr>
+  
+    <tr>
+    <td>India</td>
+    <td style= "text-align: center">7.23</td>
+
+  </tr>
+    <tr>
+    <td>Nigeria</td>
+    <td style= "text-align: center">6.16</td>
+
+  </tr>
+   <tr>
+    <td>UK</td>
+    <td style= "text-align: center">4.93</td>
+
+  </tr>
+   <tr>
+    <td>France</td>
+    <td style= "text-align: center">3.33</td>
+
+  </tr> 
+  
+    <tr>
+    <td>Malaysia</td>
+    <td style= "text-align: center">3.11</td>
+
+  </tr>
+  
+    <tr>
+    <td>Mexico</td>
+    <td style= "text-align: center">2.45</td>
+
+  </tr>
+  
+    <tr>
+    <td>Bangladesh</td>
+    <td style= "text-align: center">2.25</td>
+
+  </tr>
+    <tr>
+    <td>Egypt</td>
+    <td style= "text-align: center">1.72</td>
+
+  </tr>
+    <tr>
+    <td>Japan</td>
+    <td style= "text-align: center">1.65</td>
+
+  </tr>
+    <tr>
+    <td>Mali</td>
+    <td style= "text-align: center">1.11</td>
+
+  </tr>
+  
+  <tr>
+    <td>Ethiopia</td>
+    <td style= "text-align: center">0.96</td>
+
+  </tr>
+
+</table>
+</p>
+</body>
+<p><b> Table 3: Percentage of cryptocurrency adoption by population</b></p>
+
+
+<br>
+
+
+<p style="text-align:justify"> Data from table 2 (Number of cryptocurrency owners & Population of the country) was used to calculate the Percentage of cryptocurrency adoption by population (%) based on country in table 3. So, data from table 3 was used for this analysis to give a strong justification on the data.<p>
+
+<br><br>
+
+<iframe src="https://e.infogram.com/a2f083eb-cc5c-4f33-91d3-f1e29454daec?src=embed" title="Percentage of Cryptocurrency Adoption by Population (%) for each country" width="550" height="668" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px;width: 490px"><a href="https://infogram.com/a2f083eb-cc5c-4f33-91d3-f1e29454daec" style="color:#989898!important;text-decoration:none!important;" target="_blank">Percentage of Cryptocurrency Adoption by Population (%) for each country</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+<p><b> Figure 4: Percentage of Cryptocurrency Adoption by Population (%) for each country</b></p>
+<br>
+<hr>
+<br>
+<p><b> Justification</b></p>
+
+<p style="text-align:justify">
+The world map above shows the percentage of cryptocurrency adoption by population (%) of 12 selected countries based on their measure of development.   
+
+The type of graph used in the visualisation is world map. World map allows us to visually see the countries and compare them. Each selected countries are coloured to show the percentage of cryptocurrency adoption by population (%). The countries with lowest percentage of cryptocurrency adoption will have lighter colour while countries with highest percentage of cryptocurrency adoption will have darker colour. In the world map above, the colours used are light yellow and blue-grey. This makes it easier to visually analyse the percentage of cryptocurrency adoption by population (%) without looking at the values.  
+
+The world map includes data about the percentage of cryptocurrency adoption by population (%) of the 12 selected countries.  
+
+The percentage of cryptocurrency adoption by population is calculated by dividing the number of cryptocurrency owners by population of the country and multiplied with 100%.
+
+United States of America ranks as the highest percentage of cryptocurrency adoption by population with 8.26% compared to other 11 countries. On the contrary, Nigeria has the lowest percentage of cryptocurrency adoption by population, which is 0.96%. The range between the percentage of cryptocurrency adoption by population for both countries (highest and lowest) is 7.3%.
+
+
+The 12 countries can be ranked in increasing order starting from United States of America, India, Nigeria, United Kingdom, France, Malaysia, Mexico, Bangladesh, Egypt, Japan, Mali and Ethiopia. The 12 countries can be categorized into 3 groups based on their development status which are developed, developing and underdeveloped. Countries such as United States of America, United Kingdom, France, Japan are categorized as developed countries while Egypt, Mexico, Malaysia and India are developing countries. Bangladesh, Mali, Ethiopia and Nigeria are underdeveloped countries. Among the developed countries, United States of America has the highest percentage of cryptocurrency adoption by population while Japan has the lowest. If developing countries are compared, India has the highest percentage while Egypt has the lowest percentage. In underdeveloped countries, Nigeria has the highest percentage while Ethiopia has the lowest percentage. United States of America, India and Nigeria, which are at the top three position in percentage of cryptocurrency adoption by population, are from three different groups respectively. This explains to us that the measure of developement of a country does not affect the cryptocurrency adoption by population. The data for cryptocurrency ownership was collected from the website TripleA. Data for the total population of each country was collected from the website called World Population Review. In conclusion, United States of America ranks as the highest percentage of cryptocurrency adoption by population with 8.26% while Ethiopia has the lowest percentage of cryptocurrency adoption by population at 0.96%.
+
+</p>
+
+<br><Br>
+
+<h1 style="background-color:#09232c;color:lightyellow;">
+<p style="text-align:center">ANALYSIS 2</p>
+</h1>
+
+<table style="width:80%">
+  <tr>
+
+    <th style= "text-align: center;background-color:#E1BD75;color:#23282D">Country </th>
+    <th style= "text-align: center;background-color:#E1BD75;color:#23282D">Percentage of Cryptocurrency Adoption by Population (%)</th>
+
+  </tr>
+  
+   <tr>
+    <td>USA</td>
+    <td style= "text-align: center">69375.38</td>
+
+  </tr>
+  
+    <tr>
+    <td>UK</td>
+    <td style= "text-align: center">46200.26</td>
+
+  </tr>
+    <tr>
+    <td>France</td>
+    <td style= "text-align: center">45028.27</td>
+
+  </tr>
+   <tr>
+    <td>Japan</td>
+    <td style= "text-align: center">40704.3</td>
+
+  </tr>
+   <tr>
+    <td>Malaysia   </td>
+    <td style= "text-align: center">11124.67</td>
+
+  </tr> 
+  
+    <tr>
+    <td>Mexico</td>
+    <td style= "text-align: center">9967.39</td>
+
+  </tr>
+  
+    <tr>
+    <td>Egypt</td>
+    <td style= "text-align: center">3851.75</td>
+
+  </tr>
+  
+    <tr>
+    <td>Nigeria</td>
+    <td style= "text-align: center">2272.84</td>
+
+  </tr>
+    <tr>
+    <td>Bangladesh</td>
+    <td style= "text-align: center">2138.79</td>
+
+  </tr>
+    <tr>
+    <td>India</td>
+    <td style= "text-align: center">2116.44</td>
+
+  </tr>
+    <tr>
+    <td>Mali</td>
+    <td style= "text-align: center">966.14</td>
+
+  </tr>
+  
+  <tr>
+    <td>Ethiopia</td>
+    <td style= "text-align: center">939.51</td>
+
+  </tr>
+
+</table>
+</p>
+</body>
+<p><b> Table 4: GDP per capita ($) by Countries</b></p>
+
+<br>
+<br>
+
+
+<iframe src="https://e.infogram.com/acf091c8-702e-4256-9c84-5f6602fa19dc?src=embed" title="GDP per capita ($) by Countries" width="600" height="623" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px;width: 540px"><a href="https://infogram.com/acf091c8-702e-4256-9c84-5f6602fa19dc" style="color:#989898!important;text-decoration:none!important;" target="_blank">GDP per capita ($) by Countries</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+<br><br>
+
+<p><b> Figure 5: GDP per capita ($) by Countries</b></p>
+<br>
+<hr>
+<br>
+
+<p><b> Justification</b></p>
+
+<p style="text-align:justify">
+The data table followed by a line graph shown above is representing the gross domestic product (GDP) per capita for 12 chosen countries based on their economic status which goes by developed, developing and underdeveloped. 
+
+ 
+
+A bar chart was chosen to visualize the GDP per capita by country in a collective manner, which would enable an easier and efficient interpretation of gathered data which is relevant to the topic such as the country with the highest and lowest GDP per capita. In this graph, 3 colours were used altogether to group the countries by their respective status. The graph’s main purpose is to convey relational information almost instantly through graphical representation as the bars display the quantity for a particular category which is the gross domestic product (GDP) per capita for all the 12 countries. Dark shade of the colour used for the bars in the graph indicates the developed nation category while the medium shade represents developing countries and the lighter shade groups  underdeveloped nations. 
+
+
+
+12 countries segregated accordingly to 3 different status (developed, developing, underdeveloped) and the respective country’s gross domestic product (GDP) per capita that provides a general assessment of the state of a country’s economic health was extracted from World Economic Database sourced by a reliable organization called International Monetary Fund. 
+
+ 
+
+Based on the column chart of GDP per capita plotted against the respective countries, it can be interrogated that USA which has its status belonging to a well-developed nation boasts the highest GDP per capita among the 3 other countries within its category(developed), amassing to nearly 22939.58 USD. Besides, the aforementioned country’s GDP also contributes a significant portion, about 24.94% to the cumulative global GDP (which is estimated to be 91980 billion USD) in the current year 2022. On the other hand, France has marked 2940.43 per capita GDP in US dollars which happens to be the lowest among the 4 developed countries. The average GDP per capita for the 4 developed countries, namely USA, Japan, UK and France is calculated to be 8522.885 USD while range is at 19999.15 USD, indicating high variability in the overall GDP per capita. 
+
+On the other hand, Malaysia, a developing south eastern country, has the highest GDP per capita, totalling up  to about 11124.67 USD which is also the highest for any other developing countries included in this data set. Meanwhile, India which is also categorized as a developing country holds a GDP per capita of 2116.44 USD. India also has a slightly lower GDP per capita compared to Bangladesh which is an underdeveloped nation with a variance of 22.35 USD. The 4 developing countries’ average GDP per capita is at 6770.65 USD and the range between the highest and lowest GDP per capita recorded for the mentioned developing countries is calculated to be 9008.23 USD with lower variability compared to the range of GDP per capita in developed countries. 
+
+Moving on, Nigeria, an underdeveloped country, has recorded the highest GDP per capita among the other countries under the same category which is 2272.84 USD while Ethiopia has marked the lowest GDP per capita among all the other countries from three different economic status. The average GDP per capita for the 4 underdeveloped nations is at 1579.32 USD while the range is 1333.33 USD with the lowest variability compared to range calculated for the other set of developed and developing countries. 
+
+
+
+A solid conclusion that can be derived from analysing the pattern in the trendline of the chart is, the more developed a country is, the higher the GDP per capita for the respective country. This conclusion is strengthened by the evidence extracted from the analysis where USA, a developed nation marks a GDP per capita of 22939.58 USD while Ethiopia, and underdeveloped nation only recorded 939.51 USD.  
+</p>
+
+<br><Br>
+
+<h1 style="background-color:#09232c;color:lightyellow;">
+<p style="text-align:center">ANALYSIS 3</p>
+</h1>
+
+<table style="width:80%">
+  <tr>
+
+    <th style= "text-align: center;background-color:#E1BD75;color:#23282D">Country </th>
+    <th style= "text-align: center;background-color:#E1BD75;color:#23282D">Percentage of Cryptocurrency Adoption by Population (%)</th>
+    <th style= "text-align: center;background-color:#E1BD75;color:#23282D">GDP per capita ( $)</th>
+  </tr>
+  <tr>
+    <td>Ethiopia</td>
+    <td style= "text-align: center">0.96</td>
+    <td style= "text-align: center">939.51</td>
+  </tr>
+  <tr>
+    <td>Mali</td>
+    <td style= "text-align: center">1.11</td>
+    <td style= "text-align: center">966.14</td>
+  </tr>
+  <tr>
+    <td>Japan</td>
+    <td style= "text-align: center">1.65</td>
+    <td style= "text-align: center">40704.3</td>
+  </tr>
+  <tr>
+    <td>Egypt</td>
+    <td style= "text-align: center">1.72</td>
+    <td style= "text-align: center">3851.75</td>
+  </tr>
+  <tr>
+    <td>Bangladesh</td>
+    <td style= "text-align: center">2.25</td>
+    <td style= "text-align: center">2138.79</td>
+  </tr>
+  <tr>
+    <td>Mexico</td>
+    <td style= "text-align: center">2.45</td>
+    <td style= "text-align: center">9967.39</td>
+  </tr>
+  <tr>
+    <td>Malaysia</td>
+    <td style= "text-align: center">3.11</td>
+    <td style= "text-align: center">11124.67</td>
+  </tr>
+  <tr>
+    <td>France</td>
+    <td style= "text-align: center">3.33</td>
+    <td style= "text-align: center">45028.27</td>
+  </tr>
+  <tr>
+    <td>UK</td>
+    <td style= "text-align: center">4.93</td>
+    <td style= "text-align: center">46200.26</td>
+  </tr>
+  <tr>
+    <td>Nigeria</td>
+    <td style= "text-align: center">6.16</td>
+    <td style= "text-align: center">2272.84</td>
+  </tr>
+  <tr>
+    <td>India</td>
+    <td style= "text-align: center">7.23</td>
+    <td style= "text-align: center">2116.44</td>
+  </tr>
+  <tr>
+    <td>USA</td>
+    <td style= "text-align: center">8.26</td>
+    <td style= "text-align: center">69375.38</td>
+  </tr>
+
+</table>
+</p>
+</body>
+<p><b> Table 5: Percentage of Cryptocurrency adoption by population (%) and GDP per capita for each country</b></p>
+
+<br>
+
+<iframe src="https://e.infogram.com/2efa05b8-f2aa-4a9b-904a-235aa6cdad8c?src=embed" title="Copy: Cryptocurrency Adoption (%) vs GDP per capita ($) for each country" width="500" height="840" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px;width: 440px"><a href="https://infogram.com/2efa05b8-f2aa-4a9b-904a-235aa6cdad8c" style="color:#989898!important;text-decoration:none!important;" target="_blank">Copy: Cryptocurrency Adoption (%) vs GDP per capita ($) for each country</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+<p><b> Figure 6: Cryptocurrency Adoption (%) vs GDP per capita ($) for each country</b></p>
+<br>
+<hr>
+<br>
+
+<p><b> Justification</b></p>
+
+<p style="text-align:justify">
+
+The data visualization displayed above shows a graph of Cryptocurrency Adoption (%) and GDP Per Capita of a selected 12 countries based on their measure of development. 
+
+The graph type that is used to represent the data collected is a combo graph that consists of a column graph and a line graph. A bar graph presents categorical data by displaying parallel vertical bars with heights proportional to specified data amounts for each category. The line graph presents the change in the trend of the data over a period. The bar graph (Cryptocurrency Adoption) and the line graph (GDP per capita) shows the relationship between Cryptocurrency Adoption (%) and GDP Per Capita of 12 different countries based on their development status. These graphs are used to identify whether the data collected supports or refutes the hypothesis which is “Country with higher cryptocurrency adoption has increased its GDP value because cryptocurrency provides many incentives for entrepreneurs across the globe”
+
+Data included in this combo chart is the percentage of cryptocurrency adoption in 12 countries and the GDP per capita of the countries.
+ 
+USA has the highest percentage of cryptocurrency adoption by population compared to any other countries (8.26 %). USA also dominates the GDP per capita of a country by a large margin where it has a GDP per capita value of 69,375.38 $. 
+Relatively, some countries with a higher cryptocurrency adoption percentage has a higher GDP value which can be seen from the data visualization of India. India is ranked as the 2nd highest in cryptocurrency adoption where the percentage of cryptocurrency adoption by population is 7.23% and ranked as the 4th highest for GDP per capita. 
+On the other hand, some countries that have a higher cryptocurrency adoption have a lower GDP value. This can be seen from the data representation of India, which is ranked 2nd for cryptocurrency adoption with 7.23% but is only ranked 10th (from the highest) for the GDP per capita. As for Nigeria it is ranked 3rd for cryptocurrency adoption with 6.16% but it has a lower GDP value (ranked 8th from the highest) compared to other countries.
+Ethiopia is ranked the lowest in cryptocurrency adoption and the GDP per capita compared to any other countries where the values are 0.96% and 939.51 $ respectively. 
+From the trend of the graph, it can be clearly seen that as the percentage of cryptocurrency adoption by population gets higher, the trend of the GDP per capita of the country is inconsistent where it increases, decrease, increase, decrease and increase again. 
+
+From the graph, it can be noted that USA, UK, France and Japan which are the most developed countries have a higher GDP value, but they do not have a high cryptocurrency adoption comparatively. USA is ranked the 1st for the highest cryptocurrency adoption whereas Japan is only ranked 10th for the cryptocurrency adoption although having the 4th best GDP per capita among the 12 countries. The percentage of difference of cryptocurrency adoption between these two countries is quite significant with 6.61%. 
+
+The data on cryptocurrency ownership was collected from the website TripleA whereas the data on GDP of a country was collected from a trustable organization’s website which is International Monetary Fund. The data for the cryptocurrency ownership and the population of the country was used to calculate the percentage of cryptocurrency adoption of each country.
+
+Developed country such as USA have a higher GDP per capita and a higher Cryptocurrency adoption, but other developed country such as Japan has a relatively lower Cryptocurrency adoption although it has the second highest GDP per capita. Underdeveloped country such as Nigeria have a higher cryptocurrency adoption but the GDP per capita of the country is among the lowest in this research. 
+Therefore, countries that have larger cryptocurrency adoption does not necessarily have a higher GDP per capita. Thus, it can be said that the hypothesis “Country with higher cryptocurrency adoption has increased its GDP value because cryptocurrency provides many incentives for entrepreneurs across the globe’ is refuted by the data. 
+</P><br><Br>
+
+<h1 style="color:#23282D;border: 10px solid #E1BD75;">
+
+<p style="text-align:center">CONCLUSION</p>
+</h1><br>
+<p style="text-align:justify">Based on the thorough analysis done in accordance with the visualized data, it can be concluded that the evidence displayed clearly refutes the aforementioned hypothesis that ‘countries with a higher rate of adoption towards the usage of cryptocurrency has recorded positive growth in their GDP per capita’. A number of reasons that further strengthens the argument against this hypothesis is, cryptocurrency hands over citizens control over their capitals by democratizing finance. According to Prasad, 2021 (as cited in Nova, 2021) cryptocurrency also has the potential of destabilizing a country’s financial state if it were to create a massive, uncontrolled financial system with no safeguards for investors. Therefore, it is evident that the emergence of cryptocurrency as a new digital currency technology to the world still lacks trust among stakeholders and people in the current world. Thus, it may have a negative impact on the global economy and GDP of a country. </p>
+
+
+<p style="text-align:justify">One of the ways the outcome of this analysis can be improvised is by increasing the number of countries included as samples in this research. The more samples analysed based on a hypothesis constructed, the higher the tendency of the analysis to be accurate because theoretically enough data would have be gathered at the end of the acquisition process to be able to sense a more detailed pattern in the analysis. Besides, a deeper research on cryptocurrency adoption with gross national income of a country can be done to understand how cryptocurrency actually impacts the economy and wages in a country before coming up with a relevant hypothesis. As a concluding statement, based on our analysis, although the usage of cryptocurrency among countries does not benefit the economy of a country, however, theoretically speaking, if more users get their hands on cryptocurrencies, it can be further proven that the advancement of digital currencies can play a vital role in determining the economic state of a country.  </p><br>
+
+<h1 style="color:#23282D;border: 10px solid #E1BD75;">
+<p style="text-align:center">REFERENCES</p>
+</h1><br>
+
+<p style="text-align:left">TripleA, (n.d.). Global crypto adoption. https://triple-a.io/crypto-ownership/ </p>
+
+<p style="text-align:left">International Monetary Fund, (2021, October). Report for Selected Countries and Subjects: October 2021. https://www.imf.org/en/Publications/WEO/weo-database/2021/October/weo-report?c=512,914,612,171,614,311,213,911,314,193,122,912,313,419,513,316,913,124,339,638,514,218,963,616, 223,516,918,748,618,624,522,622,156,626,628,228,924,233,632,636,634,238,662,960,423,935,128,611,321, 243,248,469,253,642,643,939,734,644,819,172,132,646,648,915,134,652,174,328,258,656,654,336,263,268, 532,944,176,534,536,429,433,178,436,136,343,158,439,916,664,826,542,967,443,917,544,941,446,666,668, 672,946,137,546,674,676,548,556,678,181,867,682,684,273,868,921,948,943,686,688,518,728,836,558,138, 196,278,692,694,962,142,449,564,565,283,853,288,293,566,964,182,359,453,968,922,714,862,135,716,456, 722,942,718,724,576,936,961,813,726,199,733,184,524,361,362,364,732,366,144,146,463,528,923,738,578, 537,742,866,369,744,186,925,869,746,926,466,112,111,298,927,846,299,582,487,474,754,698,&s=NGDPD PC,PPPPC,&sy=2020&ey=2021&ssm=0&scsm=0&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1</p>
+
+
+
+<p style="text-align:left">Trend Micro (n.d.). Cryptocurrency. https://www.trendmicro.com/vinfo/us/security/definition/cryptocurrency</p>
+
+<p style="text-align:left">World Population Review. (2022). Total Population by Country 2022 Population. https://worldpopulationreview.com/countries</P>
+
+<p style="text-align:left">Thanh Bình, (2022, March 1). Một cuộc tấn công có thể xảy ra của chính phủ Hoa Kỳ đối với Bitcoin. https://vietnamcoincap.com/2022/03/mot-cuoc-tan-cong-co-the-xay-ra-cua-chinh-phu-hoa-ky-doi-voi-bitcoin/</p>
+
+<p style="text-align:left">Nova, A. (2021, October 13). Cryptocurrencies could lead to financial instability, author warns. CNBC. https://www.cnbc.com/2021/10/13/cryptocurrencies-could-lead-to-financial-instability-author-warns.html</p> <br>
+
+<h1 style="color:#23282D;border: 10px solid #E1BD75;">
+<p style="text-align:center">AUTHOR</p>
+</h1>
+<br>
+
+<p>Data science web report assignment in MUFY ICT by Group 8 from ICT 2-2</p>
+
+<p style="font-size:20px;text-align:center"><b>Sarviin a/l Hari&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tharani a/p Prathaban&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kogiilan a/l Muniandy</b> </b></p>
+
+<p style="font-size:20px;text-align:center">32885741&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 32886047&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32885954</p><br>
